@@ -8,7 +8,9 @@ It is a Student Attendance App using Quick Response(QR) Scanner. It is developed
 
 It was my side project that I developed to test my knowledge in the above mentioned Technology.
 
-##Screenshots
+## Screenshots
+![pixlr_20210129230051043](https://user-images.githubusercontent.com/57355675/106308770-325d1480-6287-11eb-99e9-391d10acd091.jpg)
+
 
 
 ## Available Scripts
