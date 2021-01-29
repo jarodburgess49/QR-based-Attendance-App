@@ -12,7 +12,11 @@ It was my side project that I developed to test my knowledge in the above mentio
 
 ![pixlr_20210129230051043_4_7](https://user-images.githubusercontent.com/57355675/106310410-8668f880-6289-11eb-869e-36daca922ca4.jpg)
 
-![Screenshot_20210129-203708_1_7](https://user-images.githubusercontent.com/57355675/106310946-6259e700-628a-11eb-86f8-c93bdab75d8c.jpg) ![Screenshot_20210129-203543_7](https://user-images.githubusercontent.com/57355675/106310950-638b1400-628a-11eb-8032-386504c23f12.jpg)
+
+
+![Screenshot_20210129-203543_1_15](https://user-images.githubusercontent.com/57355675/106311496-4145c600-628b-11eb-8b3b-5d74a299aa33.jpg) ![Screenshot_20210129-203708_1_1_15](https://user-images.githubusercontent.com/57355675/106311498-4276f300-628b-11eb-839a-b3ec73eaad44.jpg)
+
+
 
 
 
