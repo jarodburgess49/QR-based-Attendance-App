@@ -10,7 +10,8 @@ It was my side project that I developed to test my knowledge in the above mentio
 
 ## Screenshots
 
-![pixlr_20210129230051043_1_19](https://user-images.githubusercontent.com/57355675/106309560-4f461780-6288-11eb-9dc6-a69c0ffeb210.jpg)
+![pixlr_20210129230051043_4_7](https://user-images.githubusercontent.com/57355675/106310410-8668f880-6289-11eb-869e-36daca922ca4.jpg)
+
 
 
 
