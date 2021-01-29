@@ -8,6 +8,16 @@ It is a Student Attendance App using Quick Response(QR) Scanner. It is developed
 
 It was my side project that I developed to test my knowledge in the above mentioned Technology.
 
+##Screenshots
+
+![Screenshot_20210129-203410](https://user-images.githubusercontent.com/57355675/106306887-a944de00-6284-11eb-8fea-23853866a7be.jpg)
+![Screenshot_20210129-203504](https://user-images.githubusercontent.com/57355675/106306947-be217180-6284-11eb-84a8-b79ca4bc43dd.jpg)
+![Screenshot_20210129-203511](https://user-images.githubusercontent.com/57355675/106306974-c5e11600-6284-11eb-99a4-7cdf5fd14fc8.jpg)
+![Screenshot_20210129-203531](https://user-images.githubusercontent.com/57355675/106307009-cf6a7e00-6284-11eb-9a00-e692a71576e8.jpg)
+![Screenshot_20210129-203554](https://user-images.githubusercontent.com/57355675/106307023-d3969b80-6284-11eb-9ceb-b4178c2ff634.jpg)
+![Screenshot_20210129-203708 (1)](https://user-images.githubusercontent.com/57355675/106307037-d85b4f80-6284-11eb-98ad-135c76b2c23b.jpg)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
