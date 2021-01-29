@@ -12,6 +12,11 @@ It was my side project that I developed to test my knowledge in the above mentio
 
 ![pixlr_20210129230051043_4_7](https://user-images.githubusercontent.com/57355675/106310410-8668f880-6289-11eb-869e-36daca922ca4.jpg)
 
+![Screenshot_20210129-203708_1_7](https://user-images.githubusercontent.com/57355675/106310946-6259e700-628a-11eb-86f8-c93bdab75d8c.jpg)
+
+![Screenshot_20210129-203543_7](https://user-images.githubusercontent.com/57355675/106310950-638b1400-628a-11eb-8032-386504c23f12.jpg)
+
+
 
 
 
