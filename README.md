@@ -1,6 +1,6 @@
 It is a Student Attendance App using Quick Response(QR) Scanner. It is developed using the following Tech Stack:
 
-1. React Native (Expo)
+1. React Native 
 2. Redux (State Management)
 3. Node JS
 4. Express
